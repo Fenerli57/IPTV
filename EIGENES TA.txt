@@ -184,7 +184,7 @@ http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3293
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3292
 #EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 7 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3291
-#EXTINF:0 tvg-id="ext" group-title=DE - SKY BUNDESLIGA",(DE) Sky Sport 8 4K
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 8 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3290
 #EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 9 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3289
@@ -258,4 +258,5 @@ http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4455
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4454
 #EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) Sixx 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4453
+
 
