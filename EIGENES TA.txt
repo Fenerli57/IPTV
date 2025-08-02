@@ -240,7 +240,7 @@ http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/168136
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/168135
 #EXTINF:0 tvg-id="ext" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 17 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/168134
-#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Das Erste 4K
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) Das Erste 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4461
 #EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) ZDF 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4460
@@ -258,5 +258,6 @@ http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4455
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4454
 #EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) Sixx 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4453
+
 
 
