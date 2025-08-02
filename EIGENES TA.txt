@@ -55,95 +55,141 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115160
 #EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", TRT SPOR YILDIZ HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16955
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", EUROSPORT 1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/19181
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", EUROSPORT 2 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/19182
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", KANAL 26 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26 HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", KANAL 26 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115142
-#EXTINF:-1 tvg-id="" tvg-name="TR: EDGE SPORT HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", EDGE SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDGE SPORT HD" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", EDGE SPORT HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115159
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 1 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TABII SPORT 1 RAW
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 1 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", TABII SPORT 1 RAW
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127460
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 2 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TABII SPORT 2 RAW
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 2 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", TABII SPORT 2 RAW
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127461
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 3 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TABII SPORT 3 RAW
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 3 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", TABII SPORT 3 RAW
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127462
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 4 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TABII SPORT 4 RAW
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 4 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", TABII SPORT 4 RAW
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127463
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 5 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TABII SPORT 5 RAW
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 5 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", TABII SPORT 5 RAW
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127464
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 6 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ TURKEY || SPORTS", TABII SPORT 6 RAW
+#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 6 RAW" tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TR Sport", TABII SPORT 6 RAW
 #EXTINF:-1 tvg-id="TRT1" tvg-name="TRT 1" tvg-group="Ulusal" group-title="Ulusal" tvg-logo="https://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" ,TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
-#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
+#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="TR Ulusal",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
+#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="TR Ulusal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR Ulusal",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
-#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
+#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="TR Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Genel",Beyaz TV
+#EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="TR Ulusal",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 HEVC
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4619
 #EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3248
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ SKY•SPORTS",DE: SkySport Bundesliga 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="DE - SKY BUNDESLIGA",DE: SkySport Bundesliga 1 HD
 http://ky-iptv.com:80/live/Ivica5274/juric4005/182967.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ SKY•SPORTS",DE: SkySport Bundesliga 2 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="DE - SKY BUNDESLIGA",DE: SkySport Bundesliga 2 FHD
 http://ky-iptv.com:80/live/Ivica5274/juric4005/182968.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ SKY•SPORTS",DE: SkySport Bundesliga 3 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="DE - SKY BUNDESLIGA",DE: SkySport Bundesliga 3 FHD
 http://ky-iptv.com:80/live/Ivica5274/juric4005/182970.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ SKY•SPORTS",DE: SkySport Bundesliga 4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="DE - SKY BUNDESLIGA",DE: SkySport Bundesliga 4 HD
 http://ky-iptv.com:80/live/Ivica5274/juric4005/182972.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ SKY•SPORTS",DE: SkySport Bundesliga 5 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="DE - SKY BUNDESLIGA",DE: SkySport Bundesliga 5 FHD
 http://ky-iptv.com:80/live/Ivica5274/juric4005/182973.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ SKY•SPORTS",DE: SkySport Bundesliga 6 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="DE - SKY BUNDESLIGA",DE: SkySport Bundesliga 6 HD
 http://ky-iptv.com:80/live/Ivica5274/juric4005/182975.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ SKY•SPORTS",DE: SkySport Bundesliga 7 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="DE - SKY BUNDESLIGA",DE: SkySport Bundesliga 7 FHD
 http://ky-iptv.com:80/live/Ivica5274/juric4005/182976.ts
-#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE: Dazn 1 HD" tvg-logo="http://51.255.35.36/icons1/de/dazn-de.png" group-title="SHAREEXT@ GERMANY || SPORTS",Dazn 1 HD 
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE: Dazn 1 HD" tvg-logo="http://51.255.35.36/icons1/de/dazn-de.png" group-title="DE DAZN",Dazn 1 HD 
 http://tooontv.com:999/live/ere3444h/agape/53387.ts 
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN 1 HEVC
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/11236
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN 1 4K+
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN 1 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/45307
-#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE: Dazn 2 HD" tvg-logo="http://51.255.35.36/icons1/de/dazn-de.png" group-title="SHAREEXT@ GERMANY || SPORTS",Dazn 2 HD 
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE: Dazn 2 HD" tvg-logo="http://51.255.35.36/icons1/de/dazn-de.png" group-title="DE DAZN",Dazn 2 HD 
 http://tooontv.com:999/live/ere3444h/agape/53386.ts
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN 2 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN 2 HEVC
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/11237
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN 2 4K+
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN 2 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/45308
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN Event 3 4K+
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN Event 3 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/135181
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN Event 4 4K+
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN Event 4 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/135180
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN Event 5 4K+
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN Event 5 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/135179
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN Event 6 4K+
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN Event 6 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/135178
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN Event 7 4K+
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN Event 7 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/135177
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) DAZN Event 10 4K+
+#EXTINF:0 tvg-id="ext" group-title="DE DAZN",(DE) DAZN Event 10 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/135174
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sky Sport Austria 1 4K
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sportdigital1+ 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/189610
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sportdigital Fussball 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/189609
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sport1 4K+
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/142298
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sport1+ 4K+
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4623
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Teleclub Sport 1 HD
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/80305
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Teleclub Sport 2 HD
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/80306
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) München TV 4K+
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/89863
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) FC Bayern TV HD
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/91386
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Eurosport 1 4K+
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4622
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Eurosport 2 4K+
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4621
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Motorvision
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3390
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Auto motor sport channel HD
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/116643
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Redbull TV 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/188298
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport Austria 1 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4625
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sky Sport Austria 2 4K
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport Austria 2 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/119131
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sky Sport Austria 3 4K
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport Austria 3 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/119132
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sky Sport Austria 4 4K
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport Austria 4 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/119133
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sky Sport Austria 5 4K
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport Austria 5 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/119658
-#EXTINF:0 tvg-id="ext" group-title="DE - SPORTS",(DE) Sky Sport Austria 7 4K
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport Austria 7 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/119660
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 1 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4627
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 2 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3296
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 3 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3295
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 4 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3294
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 5 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3293
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 6 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3292
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 7 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3291
+#EXTINF:0 tvg-id="ext" group-title=DE - SKY BUNDESLIGA",(DE) Sky Sport 8 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3290
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 9 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/3289
+#EXTINF:0 tvg-id="ext" group-title="DE - SKY BUNDESLIGA",(DE) Sky Sport 10 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/120293
 #EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 1 4K+
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/137598
 #EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 2 4K+
@@ -194,64 +240,22 @@ http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/168136
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/168135
 #EXTINF:0 tvg-id="ext" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 17 4K
 http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/168134
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Das Erste 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4461
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) ZDF 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4460
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) RTL 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4459
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) RTL 2 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4456
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) Sat 1 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4458
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) Prosieben 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4457
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) Vox 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4455
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) Kabel 1 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4454
+#EXTINF:0 tvg-id="ext" group-title="DE - DEUTSCHLAND",(DE) Sixx 4K
+http://tv.tvdark.eu:80/Cigdem/c3WPPeRm/4453
 
-#EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png",DF1 HD
-https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="Anixe.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
-https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
-https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
-#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
-#EXTINF:-1 tvg-name="Südthüringer Regionalfernsehen" tvg-id="srf-online.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/suedthueringer_regionalfernsehen.png",Südthüringer Regionalfernsehen
-https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Rennsteig.tv" tvg-id="rennsteig.tv" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rennsteigtv.png",Rennsteig.tv
-http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="h-eins.tv" tvg-id="h-eins.tv" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/h1tv.png",h1
-https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
-https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:-1 tvg-name="Krone.TV" tvg-id="KroneTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png",Krone.TV
-https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
-
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
